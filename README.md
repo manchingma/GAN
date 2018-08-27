@@ -11,9 +11,9 @@ https://zhuanlan.zhihu.com/p/41993080
 Basic GAN  
 python gan_example.py  
 生成结果：  
-![alt text](https://raw.githubusercontent.com/bai-shang/GAB/master/GAN.png)
+![alt text](https://raw.githubusercontent.com/bai-shang/GAN/master/GAN.png)
 
 Conditional GAN  
 python conditional_gan_example.py  
 生成结果  
-![alt text](https://raw.githubusercontent.com/bai-shang/GAB/master/CGAN.png)
+![alt text](https://raw.githubusercontent.com/bai-shang/GAN/master/CGAN.png)
