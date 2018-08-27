@@ -8,8 +8,8 @@ https://zhuanlan.zhihu.com/p/41993080
 2. 创建MNIST_data文件夹，并放入解压后的数据
 3. 运行脚本
 
-Basic GAN＜/br＞
+Basic GAN  
 python gan_example.py
 
-Conditional GAN＜/br＞
+Conditional GAN  
 python conditional_gan_example.py
