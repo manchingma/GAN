@@ -10,7 +10,6 @@ https://zhuanlan.zhihu.com/p/41993080
 
 Basic GAN
 python gan_example.py
-完
 
 Conditional GAN
 python conditional_gan_example.py
