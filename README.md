@@ -1,6 +1,6 @@
 # GAN
 
-从信息论入门对抗生成网络GAN \n
+从信息论入门对抗生成网络GAN：
 https://zhuanlan.zhihu.com/p/41993080
 
 使用方法：
