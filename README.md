@@ -13,7 +13,7 @@ https://zhuanlan.zhihu.com/p/41993080
 python gan_example.py  
 GAN结构如下图，3层全连接NN网络（不是CNN）
 
-<img src="https://raw.githubusercontent.com/bai-shang/GAN/master/gan-network.png" height="200">
+<img src="https://raw.githubusercontent.com/bai-shang/GAN/master/gan-network.png" height="180">
   
   
 ------------------------------------------------------------------
