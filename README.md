@@ -20,5 +20,7 @@ GAN结构如下图，3层全连接NN网络（不是CNN）
   
 <b>Conditional GAN</b>  
 python conditional_gan_example.py  
-CGAN结构如下图
+CGAN结构如下图  
+
+
 <img src="https://raw.githubusercontent.com/bai-shang/GAN/master/cgan-network.png" height="200">
