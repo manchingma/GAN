@@ -10,9 +10,9 @@ https://zhuanlan.zhihu.com/p/41993080
 
 Basic GAN  
 python gan_example.py  
-结构如图1，3层全连接NN网络（不是CNN）
+结构如下图，3层全连接NN网络（不是CNN）
 
-![图1](https://raw.githubusercontent.com/bai-shang/GAN/master/GAN.png)  
+![图1](https://raw.githubusercontent.com/bai-shang/GAN/master/GAN.png =250x)  
 
 Conditional GAN  
 python conditional_gan_example.py  
