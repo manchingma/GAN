@@ -10,6 +10,8 @@ https://zhuanlan.zhihu.com/p/41993080
 
 Basic GAN  
 python gan_example.py  
+结构如下：
+![](http://url/to/img.png)
 
 
 Conditional GAN  
