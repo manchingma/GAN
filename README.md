@@ -13,6 +13,7 @@ python gan_example.py
 结构如下图，3层全连接NN网络（不是CNN）
 
 ![图1](https://raw.githubusercontent.com/bai-shang/GAN/master/GAN.png =250x)  
+<img src="https://raw.githubusercontent.com/bai-shang/GAN/master/GAN.png" width="200">
 
 Conditional GAN  
 python conditional_gan_example.py  
