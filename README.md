@@ -8,7 +8,8 @@ https://zhuanlan.zhihu.com/p/41993080
 2. 创建MNIST_data文件夹，并放入解压后的数据
 3. 运行脚本
 ------------------------------------------------------------------
-<H>Basic GAN</H>  
+<b>Basic GAN</b>  
+
 python gan_example.py  
 GAN结构如下图，3层全连接NN网络（不是CNN）
 
@@ -16,7 +17,8 @@ GAN结构如下图，3层全连接NN网络（不是CNN）
   
   
 ------------------------------------------------------------------
-<H>Conditional GAN</H>  
+<b>Conditional GAN</b>  
+
 python conditional_gan_example.py  
 CGAN结构如下图  
 
