@@ -12,7 +12,7 @@ Basic GAN
 python gan_example.py  
 结构如下图，3层全连接NN网络（不是CNN）
 
-<img src="https://raw.githubusercontent.com/bai-shang/GAN/master/GAN_network.png" width="400">
+<img src="https://raw.githubusercontent.com/bai-shang/GAN/master/GAN_network.png" height="300">
 
 Conditional GAN  
 python conditional_gan_example.py  
